@@ -11,7 +11,7 @@ I'm a Full-Stack developer who enjoys developing real world application from web
 *   ✉️  You can contact me at [adewoyin@aolausoro.tech](mailto:adewoyin@aolausoro.tech)
 *   🚀  I'm currently working on [SteppingStones mobile app for @MoreMediaTech](http://steppingstonesapp.com)
 *   🧠  I'm learning Advanced TypeScript
-*   🤝  I'm open to collaborating on Projects### Skills 
+*   🤝  I'm open to collaborating on Projects
                     
 ### Skills
 <p align="left">
