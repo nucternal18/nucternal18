@@ -1,5 +1,5 @@
-Hi 👋 My name is Adewoyin Oladipupo-Usoro
-=========================================
+Hi 👋 My name is Woyin
+======================
 
 Full-Stack Developer
 --------------------
