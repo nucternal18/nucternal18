@@ -4,7 +4,7 @@ Hi 👋, My name is Woyin
 Full-Stack Developer
 --------------------
 
-I'm a Full-Stack developer who enjoys developing real world application from web to mobile to backend systems. Dad, husband, coffee lover, anime lover and technology enthusiast. I took an interest in software development after signing up for a BSC in computing and IT.
+I'm a Full-Stack developer who enjoys developing real world application from web to mobile to backend systems. All the current projects I am current working on or have worked on ar built from the ground up using technologies in the below tech stack.
 
 *   🌍  I'm based in London, United Kingdom
 *   🖥️  See my portfolio at [My Portfolio](http://aolausoro.tech)
@@ -13,7 +13,7 @@ I'm a Full-Stack developer who enjoys developing real world application from web
 *   🧠  I'm learning Advanced TypeScript
 *   🤝  I'm open to collaborating on Projects
                     
-### Skills
+### Tech Stack/ Skills Learnt
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
