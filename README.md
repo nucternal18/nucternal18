@@ -4,7 +4,7 @@ Hi 👋, My name is Woyin
 Full-Stack Developer
 --------------------
 
-I'm a Full-Stack developer who enjoys developing real world application from web to mobile to backend systems. All the current projects I am current working on or have worked on ar built from the ground up using technologies in the below tech stack.
+I'm a Full-Stack developer who enjoys developing real world application from web to mobile to backend systems. All the current projects I am currently working on or have worked on are built from the ground up using technologies in the below tech stack.
 
 *   🌍  I'm based in London, United Kingdom
 *   🖥️  See my portfolio at [My Portfolio](http://aolausoro.tech)
