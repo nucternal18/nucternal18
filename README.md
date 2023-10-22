@@ -1,4 +1,4 @@
-Hi 👋, My name is Woyin
+Hi 👋, I'm Woyin
 ======================
 
 Full-Stack Developer
