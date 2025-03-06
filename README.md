@@ -7,10 +7,10 @@ Full-Stack Developer
 I'm a Full-Stack developer who enjoys developing real world application from web to mobile to backend systems. All the current projects I am currently working on or have worked on are built from the ground up using technologies in the below tech stack.
 
 *   🌍  I'm based in London, United Kingdom
-*   🖥️  See my portfolio at [My Portfolio](http://aolausoro.tech)
+*   🖥️  See my portfolio at [My Portfolio](http://portfolio.aolausoro.tech)
 *   ✉️  You can contact me at [adewoyin@aolausoro.tech](mailto:adewoyin@aolausoro.tech)
-*   🚀  I'm currently working on [SteppingStones mobile app for @MoreMediaTech](http://steppingstonesapp.com)
-*   🧠  I'm learning Advanced TypeScript
+*   🚀  I'm currently working on [Business Champ for @BuildWithEquilibrium](https://www.buildwithequilibrium.com/)
+*   🧠  I'm learning how to create LLM and build AI agents
 *   🤝  I'm open to collaborating on Projects
                     
 ### Tech Stack/ Skills Learnt
@@ -33,7 +33,7 @@ I'm a Full-Stack developer who enjoys developing real world application from web
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/nucternal18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@nucternal.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adewoyin-oladipupo-usoro-267291100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11582232/aolausoro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/woy_in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://@nucternal.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adewoyin-oladipupo-usoro-267291100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11582232/aolausoro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
